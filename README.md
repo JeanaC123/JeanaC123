@@ -36,7 +36,8 @@ Right now, I'm focused on strengthening my foundations and building toward large
 - **Smaller Projects**
   - Forest Focus: a forest-themed Pomodoro timer (in progress)
   - Tidy Folder: a C++ folder organizer utility (in progress)
-  More coming soon. 
+  
+  More coming soon ❤️. 
 
 - **Skill Building & Practice**
 
