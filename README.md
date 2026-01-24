@@ -18,5 +18,5 @@
 </p>
 
 <p align = "center">
-  <img src="assets/divider.png" width="75%" />
+  <img src="assets/divider.png" width="100%" />
 </p>
