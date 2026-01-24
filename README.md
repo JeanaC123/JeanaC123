@@ -9,7 +9,11 @@
 </p>
 
 <p align = "center">
-  <a href = "https://www.youtube.com/@jeanachapman"><img src ="https://img.shields.io/badge/YouTube-Channel-red" /></a>
-  <a href = "https://github.com/JeanaC123"><img src ="https://img.shields.io/badge/GitHub-Portfolio-black" /></a>
-  <a href = "https://www.linkedin.com/in/jeana-chapman-utc"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+  <a href = "https://www.youtube.com/@jeanachapman"><img src="https://img.shields.io/badge/YouTube-Channel-1B4332?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href = "https://github.com/JeanaC123"><img src="https://img.shields.io/badge/GitHub-Portfolio-1B4332?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href = "https://www.linkedin.com/in/jeana-chapman-utc"><img src="https://img.shields.io/badge/LinkedIn-Connect-1B4332?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
   
