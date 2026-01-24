@@ -29,10 +29,10 @@ Right now, I'm focused on strengthening my foundations and building toward large
 ---
 
 ## 🌿 Current Work
-- **Senior Capstone Project (in progress)**
+- **Senior Capstone Project (in progress):**
   I'm current working on my senior capstone, and I'll be adding more details here as the project develops.
 
-- **Skill Building & Practice**
+- **Skill Building & Practice:**
   Alongside coursework, I'm actively refining my programmign skills and working on personal growth in:
   - Python
   - Java
