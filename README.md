@@ -57,5 +57,5 @@ As I continue learning, I’ll be adding more polished projects, documentation, 
 ## 🌿 Youtube
 I'll also be posting more consistently on Youtube, showing coding progress, project walthroughs, and some gaming content. 
 
-**My Channel:*
+*My Channel:*
 https://www.youtube.com/@jeanachapman
