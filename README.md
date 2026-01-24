@@ -17,6 +17,6 @@
   </a>
 </p>
 
-<p align ="center">
-  <img src"assets/Divider.png" width ="75%" />
+<p align = "center">
+  <img src="assets/divider.png" width="75%" />
 </p>
