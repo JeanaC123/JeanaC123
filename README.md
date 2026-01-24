@@ -33,6 +33,11 @@ Right now, I'm focused on strengthening my foundations and building toward large
 
   I'm current working on my senior capstone, and I'll be adding more details here as the project develops.
 
+- **Smaller Projects**
+  - Forest Focus: a forest-themed Pomodoro timer (in progress)
+  - Tidy Folder: a C++ folder organizer utility (in progress)
+  More coming soon. 
+
 - **Skill Building & Practice**
 
   Alongside coursework, I'm actively refining my programmign skills and working on personal growth in:
