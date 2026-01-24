@@ -29,10 +29,12 @@ Right now, I'm focused on strengthening my foundations and building toward large
 ---
 
 ## 🌿 Current Work
-- **Senior Capstone Project (in progress):**
+- **Senior Capstone Project (in progress)**
+
   I'm current working on my senior capstone, and I'll be adding more details here as the project develops.
 
-- **Skill Building & Practice:**
+- **Skill Building & Practice**
+
   Alongside coursework, I'm actively refining my programmign skills and working on personal growth in:
   - Python
   - Java
@@ -45,7 +47,9 @@ Right now, I'm focused on strengthening my foundations and building toward large
 
 ## 🌿 What's Coming Next
 Over time, I’m hoping to grow this GitHub into a space that reflects the work I’m most proud of. Along with my capstone project, I want to build smaller, focused projects that demonstrate my grasp of the languages I’m learning.
+
 My goal is to create things that are simple, functional, and genuinely useful, whether that’s for my own workflow or for others who might come across them.
+
 As I continue learning, I’ll be adding more polished projects, documentation, and long-term work here.
 
 ---
