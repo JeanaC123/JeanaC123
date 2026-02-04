@@ -31,7 +31,7 @@ Right now, I'm focused on strengthening my foundations and building toward large
 ## 🌿 Current Work
 - **Senior Capstone Project (in progress)**
 
-  I'm current working on my senior capstone, and I'll be adding more details here as the project develops.
+  Swarm-Sense, a multi-robot data dashboard that tracks sensor data in a variety of robots in the UTC lab. Role: Scrum Master
 
 - **Smaller Projects**
   - Forest Focus: a forest-themed Pomodoro timer (in progress)
