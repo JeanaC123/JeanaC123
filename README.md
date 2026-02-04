@@ -33,6 +33,8 @@ Right now, I'm focused on strengthening my foundations and building toward large
 
   Swarm-Sense, a multi-robot data dashboard that tracks sensor data in a variety of robots in the UTC lab. Role: Scrum Master
 
+  Will update in a separate repo as the project progresses.
+
 - **Smaller Projects**
   - Forest Focus: a forest-themed Pomodoro timer (in progress)
   - Tidy Folder: a C++ folder organizer utility (in progress)
